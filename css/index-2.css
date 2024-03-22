@@ -50,6 +50,7 @@
 .cs-cuadro {
     width: 95%;
     height: 2.8rem;
+    background-color: aqua;
 
     display: flex;    
     justify-content: center;
